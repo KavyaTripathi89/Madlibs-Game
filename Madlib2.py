@@ -1,4 +1,3 @@
-import random
 def ask_user():
     while True:
         try:
